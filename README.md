@@ -1,3 +1,6 @@
-"# YahtzeeBugChallenge" 
+React Yahtzee Challenge
 
-Starter code complete with piles of bugs...If i can fix all the bugs, Ill have a working yahtzee app!
+
+Found an app full of bugs online, debugged the app to make it work properly!
+
+Npm instal, npm run
